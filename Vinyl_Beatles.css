@@ -20,7 +20,7 @@ html {
     width: 100%;
 }
 body {
-    background-image: url('./images/backgrounds/Beatles_Red.png');
+    background-image: url('./images/backgrounds/Beatles_Red.jpg');
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
